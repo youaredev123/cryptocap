@@ -1,5 +1,5 @@
-# CoinMarketCap
-A simple yet beautiful cryptocurrency tracker inspired by [coinmarketcap.com](https://coinmarketcap.com/) and built using WPF
+# CryptoCap
+A cryptocurrency tracker inspired by [coinmarketcap.com](https://coinmarketcap.com/) and built using WPF
 
 ## Built using 💻🚀
 - [.NET 6](https://dotnet.microsoft.com/en-us/)
@@ -11,7 +11,7 @@ A simple yet beautiful cryptocurrency tracker inspired by [coinmarketcap.com](ht
 - [FontAwesome5](https://github.com/MartinTopfstedt/FontAwesome5)
 - [Inter Font](https://rsms.me/inter/)
 
-# Showcase 📸sdfdsfs
+# Showcase 📸
 ![matic-eur-dark](/images/matic-eur-dark.png)
 ![home-dark](/images/home-dark.png)
 ![home-light](/images/home-light.png)
